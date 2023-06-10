@@ -1,0 +1,28 @@
+{
+  "name": "learning-react",
+  "description": "learning ract",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lordvader501/learning-react.git"
+  },
+  "author": "lordvader501",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lordvader501/learning-react/issues"
+  },
+  "homepage": "https://github.com/lordvader501/learning-react#readme",
+  "devDependencies": {
+    "parcel": "^2.9.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
